@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whitehall swept and furnished by A. T.  A lover of his countrey.</title>
+            <author>A. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10108</idno>
+            <idno type="STC">Wing T0A</idno>
+            <idno type="STC">ESTC R187458</idno>
+            <idno type="EEBO-CITATION">69648943</idno>
+            <idno type="OCLC">ocm 69648943</idno>
+            <idno type="VID">185091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185091)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whitehall swept and furnished by A. T.  A lover of his countrey.</title>
+                  <author>A. T.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year of restauration. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:185091:1" rendition="simple:additions"/>
+            <head>WHITEHALL Swept and Furniſhed.</head>
+            <opener>
+               <signed>By <hi>A. T.</hi> A Lover of his Countrey.</signed>
+            </opener>
+            <lg>
+               <l>ROuze up my Genius, what art now grown dead?</l>
+               <l>Or have I loſt thee with my Maiden<g ref="char:EOLhyphen"/>head?</l>
+               <l>Or think's <hi>Apollo</hi> to be ſeen, a ſin?</l>
+               <l>Cauſe <hi>Ireton</hi> wants Hair upon his chin?</l>
+               <l>Or did dire <hi>Lawſon</hi> and his Crew combine,</l>
+               <l>Abhorring Metre, to immerge the <hi>NINE?</hi>
+               </l>
+               <l>That's not the cauſe; Thou'ſt been upon the Rack,</l>
+               <l>Since <hi>Titchborn's</hi> Grapes were cheaper ſold then Sack.</l>
+               <l>Away to Court, and there take but your fill,</l>
+               <l>'Tis 'gainſt the Proclamation for to ſwill;</l>
+               <l>In ſpite of all the tribe of Beelzebub,</l>
+               <l>Drink off your Wine, and render them the Tub</l>
+               <l>To preach in; whoſe divine ingenuous ſcent</l>
+               <l>Will teach them better Doctrine then they vent.</l>
+               <l>Enter there boldly, prithee be not nice,</l>
+               <l>But view each parcel of the Edifice,</l>
+               <l>And its Inhabitants: View every man,</l>
+               <l>From all that's ſacred to the Dripping-pan:</l>
+               <l>But ſpare that Majeſty, which once but nam'd,</l>
+               <l>Would fill more Volumes than the world hath fram'd.</l>
+            </lg>
+            <lg>
+               <l>Now to the Work, and firſt remove that Lumber,</l>
+               <l>Which did the Royal Palace ſo long cumber;</l>
+               <l>
+                  <hi>Nol</hi> is marcht off, by this hath had his Doom,</l>
+               <l>And for his B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethren now is making room.</l>
+               <l>I can't but ſmile to hear how he now raves,</l>
+               <l>That kill'd the Bears, and call'd the Bear-hoods ſlaves,</l>
+               <l>And <hi>Bradſhaw</hi> prate, but <hi>Pluto</hi> bids, content,</l>
+               <l>Sirrah, you are not here my Preſident.</l>
+               <l>And <hi>Linx-</hi>ey'd <hi>Sterry,</hi> who affirm'd of late,</l>
+               <l>That Brittiſh <hi>Nero</hi> now in Heaven ſate,</l>
+               <l>Is a true Prophet, and did gueſs it well,</l>
+               <l>He is in Heaven, if there be no Hell:</l>
+               <l>That <hi>Scot,</hi> and <hi>Vane,</hi> and <hi>Haſilrigg</hi> will know</l>
+               <l>When their deſerts ſhall ſend them down below,</l>
+               <l>Who have ſo mangled Honor, that we quite</l>
+               <l>Have loſt diſtin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion 'twixt <hi>Sir Knave</hi> and <hi>Knight.</hi>
+               </l>
+               <l>Prodigious <hi>Pack,</hi> and <hi>Harriſon,</hi> and <hi>Packer,</hi>
+               </l>
+               <l>And <hi>Hewſon,</hi> thoſe Varlets Conſcience-maker,</l>
+               <l>Theſe Mothes of State, and many thouſands more,</l>
+               <l>Hate Monarchy, as <hi>Martin</hi> loves a Whore:</l>
+               <l>Now binde them up and Cart them, here's my Garter,</l>
+               <l>Let <hi>Disborow</hi> that Lordſhip be their Carter.</l>
+            </lg>
+            <lg>
+               <l>The Rout is gone, the Royal Train is come,</l>
+               <l>Whoſe very Breath perſume<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h every room,</l>
+               <l>And all thoſe places in this Court that were</l>
+               <l>A Den of Thieves, is now an Houſe of Prayer.</l>
+               <l>Vertue's in faſhion, now are come agen,</l>
+               <l>And what's as rare, both juſt and honeſt men:</l>
+               <l>The Vail is taken off which we were under,</l>
+               <l>
+                  <hi>Joan</hi> and my <hi>Lady</hi> parted are aſunder.</l>
+               <l>Here's Chaſtity and Beauty, but one ſmile</l>
+               <l>Would raiſe a Stoicks ſpirits forty Mile:</l>
+               <l>So free from Vice, their bodies never tri'd,</l>
+               <l>Whoſe mental parts are onely occupi'd.</l>
+               <l>The Gentlemen ſo civil and ſo juſt,</l>
+               <l>You'd think they wanted Inſtruments of Luſt:</l>
+               <l>So honor'd, each S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r-reverence of theirs,</l>
+               <l>More Knightſhip ha's than had all <hi>Oliver's.</hi>
+               </l>
+               <l>May you continue vertuous, and my wiſh</l>
+               <l>Shall be Proſperity your chiefeſt bliſs;</l>
+               <l>For if you once deſcend to ſordid folly,</l>
+               <l>My Paper will grow pale, ink, melancholly.</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <bibl>PROVERBS 25. 5.</bibl> Take away the wicked from before the King, and his Throne ſhall be eſtabliſhed in Righteouſneſs.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the year of Reſtauration. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
